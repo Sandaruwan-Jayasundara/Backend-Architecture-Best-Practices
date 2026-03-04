@@ -11,7 +11,7 @@ Infrastructure Layer
 
 ```
 Keep your business logic independent from frameworks and databases.
-
+```
 
 # 2. Design APIs with Consistency
 
@@ -72,4 +72,4 @@ Rollback and failover planning
 
 ```
 Backend excellence is about predictable performance and operational stability.
-
+```
